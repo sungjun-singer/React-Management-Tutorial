@@ -1,6 +1,8 @@
 import './App.css';
 import Customer from './components/Customer';
 
+
+// 제대로 푸시되는지 확인하기 위한 주석입니다.
 const customers = [
   {
     id : 1,
